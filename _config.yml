@@ -1,0 +1,28 @@
+name: theirishfestival
+favicon: null
+layout_spectrum: 0.6123769653495401
+typography_spectrum: 0.20182838290929794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.12736557587049901
+  lightness: 0.44850374571979046
+  saturation: 0.5186519238632172
+  rhythmicContrast: 0.31509976112283766
+purpose: []
